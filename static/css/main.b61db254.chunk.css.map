@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/MainNavigation/MainNavigation.scss"],"names":[],"mappings":"AAAA,aACE,UAAY,CACZ,oBAAqB,CAFvB,mBAII,WAAY,CACZ,yBAA0B","file":"main.b61db254.chunk.css","sourcesContent":[".navbar-link {\n  color: white;\n  text-decoration: none;\n  &:hover {\n    color: azure;\n    text-decoration: underline;\n  }\n}\n"]}
